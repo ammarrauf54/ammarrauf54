@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ammarrauf54</h1>
-<h3 align="center">Building Web Apps with Frontend & Backend Excellence Full-Stack Developer | Creating End-to-End Web Solutions Turning Ideas into Full-Stack Web Experiences</h3>
+<h3 align="center">Building Web Apps with Frontend & Backend Excellence Full-Stack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ammarrauf54&label=Profile%20views&color=0e75b6&style=flat" alt="ammarrauf54" /> </p>
 
